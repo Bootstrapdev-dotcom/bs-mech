@@ -2,7 +2,7 @@
 fx_version 'cerulean'
 games {'gta5' }
 
-author 'Bootstrap Development'
+author 'Fresh-lua'
 description 'Simple Ai Mechanic Script For Your Server '
 version '1.0.0'
 
